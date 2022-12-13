@@ -1,0 +1,5 @@
+#地图ApiKey配置管理
+maps:
+  #高德地图ApiKey
+  amap:
+    apiKey: c3edc7b99dcbda85519f3a8f1d5dc78e
